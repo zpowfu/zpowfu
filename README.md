@@ -7,8 +7,7 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
+ 	user = 'Rodrigo Calzada'
 	hobbies = [
 				'Drawing',
 				'Watching Anime',
@@ -22,7 +21,6 @@
 	def Ambitions():
 		LearnJapanese()
 		CreateSkyNet()
-		FinishMyNovel()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
